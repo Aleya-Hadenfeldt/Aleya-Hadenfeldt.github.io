@@ -6,4 +6,4 @@ Here are some goals and projects I plan to work on:
 - Potentially participate in a mathematical REU program.
 - Continue work on Student-Faculty research.
 
-[Back to Home](README.md)
+[Back to Home](index.md)

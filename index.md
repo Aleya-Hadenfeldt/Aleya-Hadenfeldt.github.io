@@ -1,6 +1,8 @@
-# title
-## subheading 
-- **this** is bolded
+# Aleya's GitHub Portfolio Website
+
+## Hello! I am **Aleya Hadenfeldt** and I am an Applied Mathematics major at UW-Eau Claire.
+
+### Navigation 
 - [Projects](Projects.md)
 - [Future Work](Future.md)
 - [Contact Me](Contact.md)
