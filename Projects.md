@@ -2,7 +2,7 @@
 
 ## Stability Bounds for Correcting from Erased and Irregular Samples
 ### May 2025 - Present
--Student-Faculty Research with Dr. Sam Scholze
+- Student-Faculty Research with Dr. Sam Scholze
 - Description: In this project, we implemented computational algorithms to study the stability of signal reconstruction from erased and irregular samples using frame theory. Our work focused on coding methods to compute optimal bridge vectors, solve the associated projection matrix equations, and efficiently perform signal reconstruction while minimizing error. We also conducted numerical experiments in Python/MATLAB to simulate different erasure scenarios, evaluate reconstruction performance, and visualize how varying the number of frame vectors and erasures impacts stability.
 
 
