@@ -1,2 +1,16 @@
-Contact
-My email: hadenfal3037@uwec.edu
+\# Contact Me!
+
+
+
+\## You can reach me at:
+
+
+
+\- Email: hadenfal3037@uwec.edu
+
+\- GitHub: \[Aleya-Hadenfeldt](https://github.com/Aleya-Hadenfeldt)
+
+
+
+\[Back to Home](index.md)
+

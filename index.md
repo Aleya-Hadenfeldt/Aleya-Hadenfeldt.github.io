@@ -4,5 +4,6 @@
 
 ### Navigation 
 - [Projects](Projects.md)
+- [Math & Proofs](Proofs.md)
 - [Future Work](Future.md)
 - [Contact Me](Contact.md)

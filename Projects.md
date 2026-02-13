@@ -10,6 +10,7 @@
 ### Fall Semester 2025
 - Research Methods Project with Paige Keller
 - Description: In this project, we implemented and compared classical SIRD models with Physics-Informed Neural Networks (PINNs) to model COVID-19 disease dynamics. Using Python, R, and MATLAB, we coded constant-parameter and time-varying SIRD models, performed parameter estimation, and handled data preprocessing, including normalization and KNN/iterative imputation. For the PINNs, we designed and trained neural networks with custom loss functions that combined data-fitting and differential-equation-based physics constraints. We experimented with multi-output and individual compartment networks, tuning architectures, dropout, and regularization to optimize performance. Our code also automated evaluation metrics such as R^2 and MAPE, enabling systematic comparison across models. The computational workflow allowed us to visualize model predictions, assess stability, and explore the impact of preprocessing and hyperparameter choices on predictive accuracy.
+- ![Poster](files/Disease_Poster.jpg)
 - [Research Paper](files/Disease_Paper.pdf)
 
 [Back to Home](index.md)
