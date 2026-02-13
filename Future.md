@@ -5,5 +5,6 @@ Here are some goals and projects I plan to work on:
 - Improve data analysis and visualization skills.
 - Potentially participate in a mathematical REU program.
 - Continue work on Student-Faculty research.
+- Present at Math Retreat (April 27th, 2026)
 
 [Back to Home](index.md)
